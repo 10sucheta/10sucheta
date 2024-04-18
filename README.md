@@ -1,3 +1,4 @@
+![logo](https://github.com/10sucheta/10sucheta/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Sucheta Chanda</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
